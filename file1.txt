@@ -1,0 +1,6 @@
+hello everyone i am using my keybaord to input some date into this txt fle
+this next like is to test wether the function will wirte in 2 lines
+test 1
+test 2 
+test 3
+test 4
