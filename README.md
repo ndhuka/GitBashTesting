@@ -27,3 +27,8 @@ step 6: condition statemetns not working only works when directory is wrong and 
 	
 step 7: after leanring how to create funciton and useing different loops i fell into a hole where i change the bachup.sh file
 	to a function and now it does not work anymore. i cant tell what i did wrong. 
+
+
+links to referances:
+https://linuxconfig.org/bash-scripting-tutorial-for-beginners#h12-input-output-and-error-redirections
+https://stackoverflow.com/questions/20666207/syntax-error-near-unexpected-token-echo
