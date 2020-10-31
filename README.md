@@ -32,3 +32,16 @@ step 7: after leanring how to create funciton and useing different loops i fell 
 links to referances:
 https://linuxconfig.org/bash-scripting-tutorial-for-beginners#h12-input-output-and-error-redirections
 https://stackoverflow.com/questions/20666207/syntax-error-near-unexpected-token-echo
+
+Code Review (Karan Sanghera)
+
+I liked the way Naeem had his files labeled properly and I was able to know which file contained which part of the code.
+A good thing about the code backup.sh is that it was done accurately using the provided guideline last time and is easy to understand
+and nicely indented and written.
+
+
+
+
+
+
+
